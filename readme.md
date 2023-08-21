@@ -136,3 +136,15 @@ git commit -m "<description>"
 ```
 
 Depois conseguimos logar no GitHub e publicamos o commit.
+
+
+//Git Hub
+
+Serviço web compartilhado para projetos que utilizam o Git
+para versionamento. É um local de armanezamento de código.
+
+//GitHub Pages
+
+É um portifólio pessoal; Pra vc anotar oque é importante e não deve esquecer e provar seu conhecimento na hora de procurar um emprego.
+
+
